@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+
+
+
+
+  
+  
+  .BOX{
+    width: 1300px;
+    height: 350px;
+    margin: 25px auto;
+    display: flex;
+    flex-wrap: wrap;
+  
+  
+    .col{
+        width: 400px;
+        height: 350px;
+        padding: 20px;
+        margin: 20px auto;
+        border: 3px solid rgb(149, 0, 255);
+        border-radius: 2%;
+        text-align: center;
+  
+        p{
+          position: fixed;
+      }
+      
+        img {
+        width: 60%;
+        margin: 10px auto; 
+      }
+  
+    
+    }
+  }
+  
